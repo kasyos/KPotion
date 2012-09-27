@@ -1,0 +1,59 @@
+name: KPotion
+main: me.kasyos.kpotion.MainKpotion
+version: 1.1
+authors: [kasyos, kasyos.fr]
+commands:
+  kpotion:
+    usage: /kpotion
+    description: affiche l'aide et la liste des potions
+  hasard:
+    usage: /hasard <joueur>
+    description: lance un sort au hasard sur le joueur
+  poison:
+    usage: /poison <joueur>
+    description: empoisonne le joueur
+  confusion:
+    usage: /confusion <joueur>
+    description: trouble la vision du joueur
+  aveugle:
+    usage: /aveugle <joueur>
+    description: diminue la vision du joueur
+  digspree:
+    usage: /digspree <joueur>
+    description: augmente la vitesse de minage du joueur
+  resistance:
+    usage: /resistance <joueur>
+    description: le joueur subit moins de degat
+  resistancefeu:
+    usage: /resistancefeu <joueur>
+    description: le joueur ne subit pas de dommage lier au feu
+  coup:
+    usage: /coup <joueur>
+    description: envoie des dommages au joueur
+  soin:
+    usage: /soin <joueur>
+    description: soigne le joueur
+  faim:
+    usage: /faim <joueur>
+    description: diminution progressive de la barre de faim du joueur
+  faiblesse:
+    usage: /faiblesse <joueur>
+    description: augmente les degats que subit le joueur
+  saut:
+    usage: /saut <joueur>
+    description: la hauteur des saut du joueur est augmenter
+  regeneration:
+    usage: /regeneration <joueur>
+    description: augmentation progressive de la barre de vie du joueur
+  lent:
+    usage: /lent <joueur>
+    description: diminue la vitesse de deplacement du joueur
+  digslow:
+    usage: /digslow <joueur>
+    description: diminue la vitesse de minage du joueur
+  rapide:
+    usage: /rapide <joueur>
+    description: augmente la vitesse de deplacement du joueur
+  aquatique:
+    usage: /aquatique <joueur>
+    description: permet au joueur de respirer sous l'eau

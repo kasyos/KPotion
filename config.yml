@@ -1,0 +1,23 @@
+MessagedeDepart:
+  Activer: true
+  Message: "Le plugin KPotion est activer !"
+MessageArret:
+  Activer: true
+  Message: "Le plugin KPotion est desactiver !"
+TempsPotion:
+  Poison: 400
+  Confusion: 400
+  Aveugle: 400
+  Digspree: 400
+  Resistance: 400
+  ResistanceFeu: 400
+  Coup: 50
+  Soin: 400
+  Faim: 400
+  Faiblesse: 400
+  Saut: 400
+  Regeneration: 400
+  Lent: 400
+  Digslow: 400
+  Rapide: 400
+  Aquatique: 400
